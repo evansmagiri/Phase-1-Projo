@@ -18,3 +18,4 @@ Conclude: High-risk types (e.g., Douglas C-47A, 1,916 accidents);
 Recommendations: 1. Vought-Sikorsky VS-44 (1 accident, seaplane). 
                  2. Ilyushin Il-76MD Simorgh (1 accident, transport). 
                  3. Savoia-Marchetti SM-75RT (1 accident, historical).
+Link to Tablue: https://public.tableau.com/views/Phase1TablueDashboard/AviationRiskAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
